@@ -1,1 +1,1 @@
-created prep1.txt file
+usage of git pull command
